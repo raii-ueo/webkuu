@@ -1,6 +1,9 @@
-body
-{
- background-color:yellow;
+body{
+    background:#A52A2A;
+    color:#333;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto;
 }
 
 .header{
@@ -8,8 +11,8 @@ body
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#6A5ACD;
-    color:#FFFAFA;
+    background:#417aa8;
+    color:#fff;
 }
 
 .jarak{
@@ -17,7 +20,7 @@ body
 }
 
 .menu{
-    background-color:#417aa8
+    background-color:#E74C3C;
     height:50px;
     line-height:50px;
     position:relative;
@@ -40,7 +43,7 @@ body
 }
 
 .menu ul li a:hover {
-    background-color:#4b88b;
+    background-color:#4b88bb;
     display:block;
 }
 
@@ -54,10 +57,10 @@ body
 }
 
 .border{
-    border:2 px solid #4887b9;
-    marfin-top:1pc:
+    border:2px solid #4887b9;
+    margin-top:1pc;
     padding-bottom:1pc;
-    padding-left:2pc
+    padding-left:2pc;
     padding-right:2pc;
 }
 
@@ -77,7 +80,7 @@ body
     height:420px;
 }
 
-.undecor{
+.undercor{
     text-decoration:none;
 }
 
@@ -90,5 +93,4 @@ body
     color:#fff;
     margin-bottom: 1pc;
 }
- 
    
